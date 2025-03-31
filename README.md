@@ -5,7 +5,7 @@ J. Huang, B. Xue, Y. Sun, and M. Zhang, “EDE-NAS: An Eclectic Differential Evo
 
 
 ## Citations
-@inproceedings{EDE-NAS,
+@inproceedings{EDE-NAS,\
   title={{EDE-NAS}: an eclectic differential evolution approach to single-path neural architecture search},\
   author={Huang, Junhao and Xue, Bing and Sun, Yanan and Zhang, Mengjie},\
   booktitle={Australasian Joint Conference on Artificial Intelligence},\
